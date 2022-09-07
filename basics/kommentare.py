@@ -1,0 +1,4 @@
+# Einzeiliger Kommentar
+"""
+Mehrzelige Kommentare
+"""
