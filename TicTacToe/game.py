@@ -29,10 +29,12 @@ def player_move(player):
 move_p1 = player_move(player_one)
 move_p2 = player_move(player_two)
 
-# Verändert das Spielfeld entsprechend der Eingabe
+# Verändert das Spielfeld entsprechend der Eingabe // Es muss noch eine Überprüfung her welcher Spieler die Eingabe gemacht hat
 def change_board(move):
     if move == "1":
         board[0] = "X"
+    elif move == "2":
+        board[1] = "X"
 
 # Überprüft ob Spieler gewonnen hat
 def win(board):
