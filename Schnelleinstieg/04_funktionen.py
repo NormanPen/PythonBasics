@@ -59,3 +59,4 @@ min_of_three(1, 2, 3) # 1
 min_of_three(11, 5, 3) # 3
 min_of_three(16, 22, 55) # 16
 
+

@@ -26,8 +26,6 @@ X X O
 
 Spieler 2 hat gewonnen. Spiel beendet sich
 
-
-
 Zusatzaufgabe:
 
 Spiel kann am Ende beendet werden, oder neugestartet werden. Es gibt einen Score, der die Anzahl der gewonnenen Spiele anzeigt.
